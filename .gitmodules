@@ -1,0 +1,4 @@
+[submodule "masari-webwallet"]
+	path = masari-webwallet
+	url = https://github.com/camthegeek/masari-webwallet
+	branch = updates_1
